@@ -1,6 +1,11 @@
 # lenovo_macos15
 CPU:i7-8700
+
 MEMORY:16G
+
 IGPU:U630
+
 GFX:GT740
+
 AUDIO:ALC662
+
